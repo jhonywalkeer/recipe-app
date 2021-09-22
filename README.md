@@ -24,9 +24,9 @@ Discover more than 1200 food recipes in your hands and cook them easily this is 
 You will need [Node.js](https://nodejs.org) version 10 or higher but if you prefer to use [Yarn](https://yarnpkg.com/) , installed on your computer to continue.
 
 ```bash
-git clone https://github.com/JhonyWalker-pixel/ioasys-books.git
+git clone https://github.com/JhonyWalker-pixel/recipe-app.git
 
-$ cd ioasys-books
+$ cd recipe-app
 $ npm install or yarn install
 ```
 Navigate to the project's source folder and work in your IDE and run the script below
