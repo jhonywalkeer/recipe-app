@@ -2,12 +2,12 @@
     <img width="40%"  alt="Recipe APP - Icon" src="./assets/icons/icon-repo.svg" />
 </h1>
 
-## 💻 Resumo do projeto
+## 💻 Repository Summary
 
 Discover more than 1200 food recipes in your hands and cook them easily this is the purpose of this app
 
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 #### Project was built using **React Native** and the following dependencies:
 
@@ -19,7 +19,7 @@ Discover more than 1200 food recipes in your hands and cook them easily this is 
 
 - **[React Native Safe Area Context](https://www.npmjs.com/package/react-native-safe-area-context)** A flexible way to handle safe area, also works on Android and Web!
 
-## 🔨 Instalação Local
+## 🔨 Local Installation
 
 You will need [Node.js](https://nodejs.org) version 10 or higher but if you prefer to use [Yarn](https://yarnpkg.com/) , installed on your computer to continue.
 
