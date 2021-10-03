@@ -11,13 +11,13 @@ Discover more than 1200 food recipes in your hands and cook them easily this is 
 
 #### Project was built using **React Native** and the following dependencies:
 
-- **[React Native Community Blur](https://www.npmjs.com/package/@react-native-community/blur)** A component for UIVisualEffectView's blur and vibrancy effect on iOS, and BlurView on Android.
+- **[React Native Community Blur](https://www.npmjs.com/package/@react-native-community/blur)** - A component for UIVisualEffectView's blur and vibrancy effect on iOS, and BlurView on Android.
 
-- **[React Navigation](https://www.npmjs.com/package/react-navigation)** is born from the React Native community's need for an extensible yet easy-to-use navigation solution based on JavaScript.
+- **[React Navigation](https://www.npmjs.com/package/react-navigation)** - Is born from the React Native community's need for an extensible yet easy-to-use navigation solution based on JavaScript.
 
-- **[React Native Gesture Handler](https://www.npmjs.com/package/react-native-gesture-handler)** provides native-driven gesture management APIs for building best possible touch-based experiences in React Native.
+- **[React Native Gesture Handler](https://www.npmjs.com/package/react-native-gesture-handler)** - Provides native-driven gesture management APIs for building best possible touch-based experiences in React Native.
 
-- **[React Native Safe Area Context](https://www.npmjs.com/package/react-native-safe-area-context)** A flexible way to handle safe area, also works on Android and Web!
+- **[React Native Safe Area Context](https://www.npmjs.com/package/react-native-safe-area-context)** - A flexible way to handle safe area, also works on Android and Web!
 
 ## 🔨 Local Installation
 
