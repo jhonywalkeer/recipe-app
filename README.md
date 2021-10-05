@@ -4,7 +4,7 @@
 
 ## 💻 Repository Summary
 
-Discover more than 1200 food recipes in your hands and cook them easily this is the purpose of this app
+Discover more than 1200 food recipes in your hands and cook them easily this is the purpose of this app. If you want to see the finished design, just [click here](./assets/readme/recipe-app-design-finish.png)
 
 
 ## 🛠 Technologies
